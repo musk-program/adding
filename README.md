@@ -1,2 +1,7 @@
 # adding
-this is a adding project
+<?php
+$x=15;
+$y=30;
+$z=$x+$y;
+echo"SUM:",$z;
+?>
